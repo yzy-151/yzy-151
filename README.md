@@ -12,7 +12,7 @@
 ## 代表项目
 
 - [HITSZ Resume Template](https://github.com/yzy-151/HITSZ-Resume-Template)：支持 XeLaTeX 与 Overleaf 的哈工大（深圳）中文简历模板
-- [HITSZ Helper](https://github.com/yzy-151/HITSZ-Helper)：面向校内场景的工具项目
+- [LED Curve Fitting MATLAB](https://github.com/yzy-151/LED-Curve-Fitting-MATLAB)：LED 非线性伏安特性拟合与参数搜索实验
 - [C Language 2020](https://github.com/yzy-151/C-language-2020)：本科 C 语言课程代码归档
 
 ## 当前关注
